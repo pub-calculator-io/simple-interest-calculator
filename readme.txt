@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Simple Interest Calculator](https://www.calculator.io/simple-interest-calculator/ "Simple Interest Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_simple_interest_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Simple Interest Calculator to the sidebar through the `Appearance -> Widgets -> Simple Interest Calculator` menu in WordPress.
+* Add the shortcode `[ci_simple_interest_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_simple_interest_calculator(); ?>` to your template where you would like the Simple Interest Calculator to appear.
 
 == Screenshots ==
