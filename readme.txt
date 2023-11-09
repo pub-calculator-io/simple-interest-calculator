@@ -13,6 +13,8 @@ The simple interest calculator can be used to provide a quick and accurate calcu
 
 The simple interest calculator can be used to provide a quick and accurate calculation of interest assessed on a loan or investment.
 
+[Simple Interest Calculator Homepage](https://www.calculator.io/simple-interest-calculator/ "Simple Interest Calculator Homepage")
+
 __Shortcode__
 
 Use the Simple Interest Calculator shortcode:
