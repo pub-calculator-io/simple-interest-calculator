@@ -1,6 +1,6 @@
 === Simple Interest Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: simple interest calculator, loan interest calculation, investment interest assessment, principal amount determination, interest rate calculation, loan term analysis, fixed period interest, predictable payment planning, borrower advantages in simple interest, principal repayment in loans
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
