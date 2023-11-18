@@ -1,4 +1,4 @@
-=== Simple Interest Calculator by Calculator.iO ===
+=== Simple Interest Calculator ===
 Contributors: calculatorio
 Tags: simple interest calculator, loan interest calculation, investment interest assessment, principal amount determination, interest rate calculation, loan term analysis, fixed period interest, predictable payment planning, borrower advantages in simple interest, principal repayment in loans
 Requires at least: 5.0
