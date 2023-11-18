@@ -1,4 +1,4 @@
-# Simple Interest Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Simple Interest Calculator Widget for WordPress
 
 The simple interest calculator can be used to provide a quick and accurate calculation of interest assessed on a loan or investment.
 
