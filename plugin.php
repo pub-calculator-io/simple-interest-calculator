@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Simple Interest Calculator by www.calculator.io
+Plugin Name: CI Simple interest calculator
 Plugin URI: https://www.calculator.io/simple-interest-calculator/
 Description: The simple interest calculator can be used to provide a quick and accurate calculation of interest assessed on a loan or investment.
 Version: 1.0.0
