@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Simple Interest
 == Screenshots ==
 
 1. The Simple Interest Calculator Input Form.
-2. The Simple Interest Calculator Calculation Results.
 
 == Installation ==
 
